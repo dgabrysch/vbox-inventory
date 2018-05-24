@@ -1,4 +1,4 @@
-# vbox-inventory
+# vbox-inventory, forked from https://github.com/anomalousmaterials/vbox-inventory -> Nice work! :)
 A dynamic inventory script for Ansible and VirtualBox.
 
 What it does
