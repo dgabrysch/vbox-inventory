@@ -20,7 +20,7 @@ from subprocess import Popen, PIPE
 from argparse import ArgumentParser
 
 HOSTVAR_TEMPLATE = {}
-VBOX_GROUP = 'k8s-global-group'
+VBOX_GROUP = 'k8s-masters'
 
 def get_running_vm_names():
     '''Returns an iterable of VM name strings'''
